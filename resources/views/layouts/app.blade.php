@@ -33,7 +33,7 @@
     {{-- Page Content --}}
     <div class="m-0 lg:m-10 md:m-9 py-10 h-full dash-board-glass dark:bg-slate-700  rounded-3xl shadow-xl">
         <main>
-            {{ $slot }}
+            {{ $slot }}  
         </main>
     </div>
 
